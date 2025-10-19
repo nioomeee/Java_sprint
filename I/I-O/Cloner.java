@@ -21,5 +21,4 @@ public class Cloner {
 
         System.out.println("output printed successfully");
     }
-
 }
