@@ -1,9 +1,9 @@
 100
-hello
+INVALID
 5
 -20
-1.5
+INVALID
 999
-see you
-10 20
+INVALID
+INVALID
 0
