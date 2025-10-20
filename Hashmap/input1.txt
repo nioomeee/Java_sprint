@@ -1,0 +1,6 @@
+niomi 100
+gemini 200
+niomi 50
+ada 300
+gemini 400
+niomi 150
