@@ -1,0 +1,3 @@
+gemini: 400
+niomi: 150
+ada: 300
