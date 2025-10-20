@@ -1,0 +1,9 @@
+bestie: 2
+a: 1
+world: 1
+slay: 2
+test: 2
+another: 1
+this: 2
+is: 2
+hello: 2
