@@ -1,0 +1,7 @@
+int i=7, sum=0, meaning=42;
+int lastodd = -8;
+array = 8;
+lastodd *= -3;
+meaning /= 2;
+sum += i;
+sum += array;
