@@ -1,0 +1,6 @@
+U1,fileA,read
+U1,fileB,write
+U2,fileA,read
+U1,fileA,read
+U3,fileC,delete
+U2,fileB,read
