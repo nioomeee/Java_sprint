@@ -1,0 +1,5 @@
+serverA 1.0.5
+serverB 1.2.0
+serverC 1.0.1
+serverD 10.0.0
+serverE 1.0.1
