@@ -1,0 +1,7 @@
+5
+10
+server_offline
+20
+30
+corrupted_data
+40
