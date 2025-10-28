@@ -1,0 +1,6 @@
+Comp1 Chrome 101.2
+Comp2 Chrome 99.4
+Comp3 Firefox 87.0
+Comp4 Firefox 89.1
+Comp2 Firefox 89.1
+Comp1 Chrome 101.2
