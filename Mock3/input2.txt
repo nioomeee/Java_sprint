@@ -1,0 +1,8 @@
+serverA 10
+serverB 100
+serverA 5
+serverC 90
+serverB 110
+serverA 50
+serverB 102
+serverC 10
