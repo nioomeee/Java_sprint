@@ -1,0 +1,6 @@
+MSG_ID_1 [10:00] UserA: Hello
+MSG_ID_2 [10:01] UserB: What's up?
+REPLY_TO_1 [10:02] UserC: Hi!
+MSG_ID_3 [10:03] UserD: Lost
+REPLY_TO_2 [10:04] UserA: Not much
+REPLY_TO_1 [10:05] UserB: Hey
