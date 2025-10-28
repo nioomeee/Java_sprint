@@ -1,0 +1,8 @@
+U1,read
+U2,read
+U1,write
+U3,delete
+U2,write
+U3,read
+U1,read
+U3,write
