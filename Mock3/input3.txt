@@ -1,0 +1,4 @@
+int i=100, sum=0;
+sum += i;
+sum += i;
+i = 10;
