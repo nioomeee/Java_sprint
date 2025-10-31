@@ -1,0 +1,7 @@
+ServerA,App1,v1.0
+ServerB,App1,v2.0
+ServerA,App2,v1.0
+ServerA,App5,v1.0
+ServerC,App3,v1.0
+ServerD,App3,v2.0
+ServerC,App4,v1.0
